@@ -25,6 +25,8 @@ Install django-indian-currency::
 
     pip install django-indian-currency
 
+    pip install git+https://github.com/gokulakrishna19/django-indian-currency
+
 Add it to your `INSTALLED_APPS`:
 
 .. code-block:: python
